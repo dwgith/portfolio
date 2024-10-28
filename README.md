@@ -16,5 +16,4 @@
 # Work Experience:
 Data Scientist student at Corporate Finance Institute (June 2022 - Present)
 
-Conducted data collection, processing, and analysis 
-
+ 
