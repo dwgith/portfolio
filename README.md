@@ -14,6 +14,6 @@
 # Technical Skills:  Python, SQL, R, Excel
 
 # Work Experience:
-Data Scientist student at Corporate Finance Institute (June 2022 - Present)
+Data Scientist student at Corporate Finance Institute (June 2023 - Present)
 
  
