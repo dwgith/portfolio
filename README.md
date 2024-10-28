@@ -10,3 +10,11 @@
   - big impact project 2
 
 # Projects
+
+# Technical Skills:  Python, SQL, R, Excel
+
+# Work Experience:
+Data Scientist student at Corporate Finance Institute (June 2022 - Present)
+
+Conducted data collection, processing, and analysis 
+
